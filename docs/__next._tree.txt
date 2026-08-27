@@ -1,0 +1,4 @@
+:HL["/Personal-Website/_next/static/chunks/0qv67.rso5kuk.css","style"]
+:HL["/Personal-Website/hero-v2.webp","image"]
+:HL["/Personal-Website/jin-shun-formal.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"qtAwKMNO1UsU2OxNA03E6"}
